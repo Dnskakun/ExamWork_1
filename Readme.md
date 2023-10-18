@@ -22,5 +22,8 @@
 ![Task_3.3](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_3.3.jpg)
 
 
-4. 
+4. Установить и удалить deb-пакет с помощью dpkg.
+
+![Task_4](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_4.jpg)
+
 
