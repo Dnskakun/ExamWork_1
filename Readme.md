@@ -10,3 +10,17 @@
 2. Создать директорию, переместить файл туда.
 
 ![Task_2](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_2.jpg)
+
+3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
+
+Загружаем пакет, предназначенный для добавления репозитория Oracle MySQL и устанавливаем его. Проверяем командой 'apt-cache policy' с какого репозитория установился пакет.
+
+![Task_3.1](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_3.1.jpg)
+
+![Task_3.2](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_3.2.jpg)
+
+![Task_3.3](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_3.3.jpg)
+
+
+4. 
+
