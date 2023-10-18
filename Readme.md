@@ -9,4 +9,4 @@
 
 2. Создать директорию, переместить файл туда.
 
-![Task_2](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_1.jpg)
+![Task_2](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_2.jpg)
