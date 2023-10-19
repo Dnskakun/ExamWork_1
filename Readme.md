@@ -35,6 +35,8 @@
 ![Task_6](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_6.jpg)
 
 
+7.  В подключенном MySQL репозитории создать базу данных “Друзья человека”.
 
+![Task_7](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_7.jpg)
 
 
