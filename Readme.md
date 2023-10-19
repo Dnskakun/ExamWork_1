@@ -40,3 +40,13 @@
 ![Task_7](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_7.jpg)
 
 
+8. Создать таблицы с иерархией из диаграммы в БД.
+
+![Task_8.1](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_8.1.jpg)
+
+![Task_8.2](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_8.2.jpg)
+
+![Task_8.3](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_8.3.jpg)
+
+
+
