@@ -66,4 +66,10 @@
 ![Task_11](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_11.jpg)
 
 
+12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на прошлую принадлежность к старым таблицам.
+
+![Task_12](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_12.jpg)
+
+
+
 
