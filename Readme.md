@@ -49,4 +49,10 @@
 ![Task_8.3](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_8.3.jpg)
 
 
+9. Заполнить низкоуровневые таблицы именами (животных), командами которые они выполняют и датами рождения.
+
+![Task_9.1](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_9.1.jpg)
+
+![Task_9.2](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_9.2.jpg)
+
 
