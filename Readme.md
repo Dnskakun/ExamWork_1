@@ -56,3 +56,8 @@
 ![Task_9.2](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_9.2.jpg)
 
 
+10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
+
+![Task_10](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_10.jpg)
+
+
