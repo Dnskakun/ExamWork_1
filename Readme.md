@@ -61,3 +61,9 @@
 ![Task_10](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_10.jpg)
 
 
+11. Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице.
+
+![Task_11](https://raw.githubusercontent.com/Dnskakun/ExamWork_1/main/ResolveTasks/Task_11.jpg)
+
+
+
