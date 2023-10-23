@@ -1,3 +1,4 @@
 Cat,Barsik,2021-05-23,kis-kis,pshhh
 Dog,Strelka,2015-11-21,fas,sit down
 Horse,Skakun,2018-03-07,prrr,no-o-o
+Hamster,Pushistik,2022-07-15,hello

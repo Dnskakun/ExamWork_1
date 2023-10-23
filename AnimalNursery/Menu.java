@@ -72,31 +72,34 @@ public class Menu {
         scanner.nextLine();
 
         Animals animal;
-        switch (animalGenue) {
-            case 1:
-                animal = new Dog(name, birthday, commands);
-                break;
-            case 2:
-                animal = new Cat(name, birthday, commands);
-                break;
-            case 3:
-                animal = new Hamster(name, birthday, commands);
-                break;
-            case 4:
-                animal = new Horse(name, birthday, commands);
-                break;
-            case 5:
-                animal = new Camel(name, birthday, commands);
-                break;
-            case 6:
-                animal = new Donkey(name, birthday, commands);
-                break;
-            default:
-                System.out.println("Неверно выбран вид (род) животного.");
-                return;
-        }
+        try (Counter count = new Counter()) {
+            switch (animalGenue) {
+                case 1:
+                    animal = new Dog(name, birthday, commands);
+                    break;
+                case 2:
+                    animal = new Cat(name, birthday, commands);
+                    break;
+                case 3:
+                    animal = new Hamster(name, birthday, commands);
+                    break;
+                case 4:
+                    animal = new Horse(name, birthday, commands);
+                    break;
+                case 5:
+                    animal = new Camel(name, birthday, commands);
+                    break;
+                case 6:
+                    animal = new Donkey(name, birthday, commands);
+                    break;
+                default:
+                    System.out.println("Неверно выбран вид (род) животного.");
+                    return;
+            }
 
-        animalsDB.addNewAnimal(animal);
+            animalsDB.addNewAnimal(animal);
+            count.add();
+        }
         System.out.println("Животное добавлено в реестр!");
     }
 
